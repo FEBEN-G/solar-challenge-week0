@@ -1,6 +1,6 @@
  # Solar Challenge Week 0
     
-    
+    ##Get started
     ## Environment Setup
     
     1. Clone this repository:
@@ -24,3 +24,4 @@
     - `notebooks/`: Jupyter notebooks
     - `tests/`: Test files
     - `scripts/`: Utility scripts
+ 
