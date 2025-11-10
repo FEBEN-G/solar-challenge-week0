@@ -1,10 +1,11 @@
  # Solar Challenge Week 0
     
+    
     ## Environment Setup
     
     1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/solar-challenge-week0.git
+    git clone https://github.com/FEBEN-G/solar-challenge-week0.git
     ```
     
     2. Create and activate virtual environment:
