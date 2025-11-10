@@ -4,13 +4,13 @@
     
     1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/solar-challenge-week0.git
+    git clone https://github.com/FEBEN-G/solar-challenge-week0.git
     ```
     
     2. Create and activate virtual environment:
     ```bash
     python -m venv venv
-    source venv/bin/activate  # On Windows: venv\Scripts\activate
+    source venv/bin/activate  
     ```
     
     3. Install dependencies:
